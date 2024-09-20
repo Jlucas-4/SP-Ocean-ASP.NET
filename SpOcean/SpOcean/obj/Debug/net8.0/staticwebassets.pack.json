@@ -1,0 +1,365 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SpOcean.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SpOcean.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\images\\asadelta.jpg",
+      "PackagePath": "staticwebassets\\images\\asadelta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\images\\asadeltap.png",
+      "PackagePath": "staticwebassets\\images\\asadeltap.png"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\images\\atvasadelta.png",
+      "PackagePath": "staticwebassets\\images\\atvasadelta.png"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\images\\atvbarco.png",
+      "PackagePath": "staticwebassets\\images\\atvbarco.png"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\images\\atveventos.png",
+      "PackagePath": "staticwebassets\\images\\atveventos.png"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\images\\atvrapel.png",
+      "PackagePath": "staticwebassets\\images\\atvrapel.png"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\images\\atvsnorkel.png",
+      "PackagePath": "staticwebassets\\images\\atvsnorkel.png"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\images\\atvsurf.png",
+      "PackagePath": "staticwebassets\\images\\atvsurf.png"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\images\\bananap.png",
+      "PackagePath": "staticwebassets\\images\\bananap.png"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\images\\diverh.png",
+      "PackagePath": "staticwebassets\\images\\diverh.png"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\images\\diversaoh.png",
+      "PackagePath": "staticwebassets\\images\\diversaoh.png"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\images\\eventos.jpg",
+      "PackagePath": "staticwebassets\\images\\eventos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\images\\festivalp.png",
+      "PackagePath": "staticwebassets\\images\\festivalp.png"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\images\\passeio.png",
+      "PackagePath": "staticwebassets\\images\\passeio.png"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\images\\praiacamburi.jpg",
+      "PackagePath": "staticwebassets\\images\\praiacamburi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\images\\praiacouves.jpg",
+      "PackagePath": "staticwebassets\\images\\praiacouves.jpg"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\images\\praiadeserto.png",
+      "PackagePath": "staticwebassets\\images\\praiadeserto.png"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\images\\praiagrande.png",
+      "PackagePath": "staticwebassets\\images\\praiagrande.png"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\images\\praiaprumirim.jpg",
+      "PackagePath": "staticwebassets\\images\\praiaprumirim.jpg"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\images\\praiasonho.png",
+      "PackagePath": "staticwebassets\\images\\praiasonho.png"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\images\\pulop.png",
+      "PackagePath": "staticwebassets\\images\\pulop.png"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\images\\rapel.png",
+      "PackagePath": "staticwebassets\\images\\rapel.png"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\images\\snorkel.png",
+      "PackagePath": "staticwebassets\\images\\snorkel.png"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\images\\surf.png",
+      "PackagePath": "staticwebassets\\images\\surf.png"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\images\\surfp.png",
+      "PackagePath": "staticwebassets\\images\\surfp.png"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SpOcean.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SpOcean.props",
+      "PackagePath": "build\\SpOcean.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SpOcean.props",
+      "PackagePath": "buildMultiTargeting\\SpOcean.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SpOcean.props",
+      "PackagePath": "buildTransitive\\SpOcean.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

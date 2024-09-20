@@ -1,0 +1,151 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="container">
+
+    <main>
+        <h1>SP OCEAN</h1>
+
+        <section class="diversao">
+            <a asp-action="Atividade" asp-controller="Home">
+            <img src="~/images/diversaoh.png" alt="Diversão">
+            </a>
+        </section>
+
+        <section class="descubra">
+            <h2>Descubra</h2>
+            <div class="row">
+                <div class="col-md-4">
+                    <a asp-action="PraiaPrumirim" asp-controller="Home" class="card-link">
+                        <div class="card">
+                            <img src="~/images/praiacouves.jpg" class="card-img-top" alt="Praia Prumirim, Ubatuba">
+                            <div class="card-body">
+                                <p class="card-text">Praia Prumirim</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a asp-action="PraiaCamburi" asp-controller="Home" class="card-link">
+                        <div class="card">
+                            <img src="~/images/praiacamburi.jpg" class="card-img-top" alt="Praia Camburi, SP">
+                            <div class="card-body">
+                                <p class="card-text">Praia Camburi</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a asp-action="PraiaIlha" asp-controller="Home" class="card-link">
+                        <div class="card">
+                            <img src="~/images/praiadeserto.jpg" class="card-img-top" alt="Praia Deserto">
+                            <div class="card-body">
+                                <p class="card-text">Praia Ilha das Couves</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a asp-action="PraiaDeserto" asp-controller="Home" class="card-link">
+                        <div class="card">
+                            <img src="~/images/praiadeserto.png" class="card-img-top" alt="Praia Deserto">
+                            <div class="card-body">
+                                <p class="card-text">Praia Deserto</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a asp-action="PraiaSonho" asp-controller="Home" class="card-link">
+                        <div class="card">
+                            <img src="~/images/praiasonho.png" class="card-img-top" alt="Praia dos Sonhos">
+                            <div class="card-body">
+                                <p class="card-text">Praia dos Sonhos</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-4">
+                    <a asp-action="PraiaGrande" asp-controller="Home" class="card-link">
+                        <div class="card">
+                            <img src="~/images/praiagrande.png" class="card-img-top" alt="Praia Grande">
+                            <div class="card-body">
+                                <p class="card-text">Praia Grande</p>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </section>
+    </main>
+</div>
+
+<style>
+    body {
+        background-color: #E9F9FF;
+    }
+
+    h1 {
+        color: #005374;
+        text-align: center;
+        font-size: 60px;
+        margin-top: 36px;
+        margin-bottom: 36px;
+    }
+
+    .diversao {
+        text-align: center;
+        margin-top: 20px;
+        padding: 20px;
+        border-radius: 10px;
+    }
+
+        .diversao img {
+            width: 1260px;
+            height: 200px;
+            border-radius: 10px;
+        }
+
+        .diversao h2 {
+            color: white;
+            font-size: 36px;
+            margin-top: -30px;
+            position: relative;
+            z-index: 1;
+        }
+
+    .descubra {
+        margin-top: 20px;
+    }
+
+        .descubra h2 {
+            color: #0A749E;
+            font-size: 30px;
+            padding-bottom: 24px;
+            text-align: left;
+        }
+
+    .card-link {
+        text-decoration: none;
+        color: inherit;
+    }
+
+    .card {
+        margin-bottom: 20px;
+        border: none;
+        transition: transform 0.2s ease;
+    }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+
+    .card-body {
+        text-align: center;
+    }
+
+    .card-img-top {
+        border-radius: 10px;
+    }
+</style>

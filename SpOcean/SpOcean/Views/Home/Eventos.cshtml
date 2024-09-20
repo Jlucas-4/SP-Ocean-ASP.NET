@@ -1,0 +1,111 @@
+﻿@{
+    ViewData["Title"] = "Snorkel";
+}
+
+<div class="container">
+    <main>
+        <h1>SP OCEAN</h1>
+
+        <section class="activity-details">
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="~/images/eventos.jpg" class="activity-image" alt="Eventos">
+                </div>
+                <div class="col-md-6">
+                    <h2>Snorkel <img src="~/images/atveventos.png" class="activity-icon-small" alt="Eventos"></h2>
+                    <p class="activity-description">
+                        Os eventos na praia são uma forma envolvente e animada de reunir pessoas para comemorar, se divertir e desfrutar de 
+                        diversas atividades em um ambiente ao ar livre e à beira-mar. Esses eventos podem incluir festivais culturais, shows 
+                        musicais, competições esportivas, feiras gastronômicas, aulas de yoga, sessões de cinema ao ar livre e muito mais.
+                        Com uma atmosfera descontraída e acolhedora, os eventos na praia oferecem uma oportunidade única de interação 
+                        social, fortalecendo laços comunitários e proporcionando um senso de pertencimento.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <section class="beaches">
+            <h3>Praias com essa atividade:</h3>
+            <div class="beach-buttons">
+                <a asp-action="PraiaPrumirim" asp-controller="Home" class="beach-button">Praia Prumirim</a>
+                <a asp-action="PraiaDeserto" asp-controller="Home" class="beach-button">Praia Deserto</a>
+                <a asp-action="PraiaGrande" asp-controller="Home" class="beach-button">Praia Grande</a>
+            </div>
+        </section>
+    </main>
+</div>
+
+<style>
+    body {
+        background-color: #E9F9FF;
+    }
+
+    h1 {
+        color: #005374;
+        text-align: center;
+        font-size: 60px;
+        margin-top: 36px;
+        margin-bottom: 40px;
+    }
+
+    .activity-details {
+        margin-top: 20px;
+    }
+
+    .activity-image {
+        width: 90%;
+        border-radius: 10px;
+    }
+
+    h2 {
+        color: #005374;
+        font-size: 36px;
+        display: flex;
+        align-items: center;
+    }
+
+    .activity-icon-small {
+        width: 40px;
+        height: 40px;
+        margin-left: 28px;
+    }
+
+    .activity-description {
+        font-size: 20px;
+        color: #005374;
+        margin-top: 40px;
+        text-align: left;
+    }
+
+    .beaches {
+        margin-top: 30px;
+        text-align: center;
+    }
+
+        .beaches h3 {
+            color: #0A749E;
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+    .beach-buttons {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .beach-button {
+        display: inline-block;
+        background-color: #BEE7F8;
+        color: #005374;
+        padding: 10px 20px;
+        border-radius: 25px;
+        text-decoration: none;
+        font-size: 18px;
+        transition: background-color 0.3s ease;
+    }
+
+        .beach-button:hover {
+            background-color: #9AD0E4;
+        }
+</style>

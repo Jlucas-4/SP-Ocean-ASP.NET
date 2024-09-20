@@ -1,0 +1,105 @@
+﻿@{
+    ViewData["Title"] = "Praia";
+}
+
+<div class="container">
+    <main>
+        <h1>SP OCEAN</h1>
+
+        <section class="activity-details">
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="~/images/praiaprumirim.jpg" class="activity-image" alt="Praia Prumirim">
+                </div>
+                <div class="col-md-6">
+                    <h2>Praia Prumirim</h2>
+                    <p class="activity-description">
+                        Localizada no litoral norte de São Paulo, a Praia Prumirim também conquista visitantes com sua exuberante
+                        vegetação nativa e formações rochosas de tirar o fôlego. Além disso, é possível desfrutar de atividades como
+                        caiaque, stand-up paddle e passeios de barco, proporcionando uma experiência completa para os amantes do mar.
+                        Com uma atmosfera tranquila e familiar, esta praia é um refúgio perfeito para quem busca relaxamento e contato
+                        com a natureza em um cenário paradisíaco.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <section class="beaches">
+            <h3>Atividades nessa praia:</h3>
+            <div class="beach-buttons">
+                <a asp-action="Passeios" asp-controller="Home" class="beach-button">Passeio</a>
+                <a asp-action="Snorkel" asp-controller="Home" class="beach-button">Snorkel</a>
+                <a asp-action="Eventos" asp-controller="Home" class="beach-button">Eventos</a>
+            </div>
+        </section>
+    </main>
+</div>
+
+<style>
+    body {
+        background-color: #E9F9FF;
+    }
+
+    h1 {
+        color: #005374;
+        text-align: center;
+        font-size: 60px;
+        margin-top: 36px;
+        margin-bottom: 40px;
+    }
+
+    .activity-details {
+        margin-top: 20px;
+    }
+
+    .activity-image {
+        width: 80%;
+        border-radius: 10px;
+    }
+
+    h2 {
+        color: #005374;
+        font-size: 36px;
+        display: flex;
+        align-items: center;
+    }
+
+    .activity-description {
+        font-size: 20px;
+        color: #005374;
+        margin-top: 40px;
+        text-align: left;
+    }
+
+    .beaches {
+        margin-top: 30px;
+        text-align: center;
+    }
+
+        .beaches h3 {
+            color: #0A749E;
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+    .beach-buttons {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .beach-button {
+        display: inline-block;
+        background-color: #BEE7F8;
+        color: #005374;
+        padding: 10px 20px;
+        border-radius: 25px;
+        text-decoration: none;
+        font-size: 18px;
+        transition: background-color 0.3s ease;
+    }
+
+        .beach-button:hover {
+            background-color: #9AD0E4;
+        }
+</style>

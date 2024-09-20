@@ -1,0 +1,126 @@
+﻿@{
+    ViewData["Title"] = "Atividade";
+}
+
+
+
+<div class="container">
+    <main>
+        <h1>SP OCEAN</h1>
+
+        <section class="atividades">
+            <h2>Atividades</h2>
+            <div class="row">
+                <div class="col-md-4">
+                    <a asp-action="Snorkel" asp-controller="Home" class="activity-card">
+                        <div class="activity-icon-container">
+                            <img src="~/images/atvsnorkel.png" class="activity-icon" alt="Snorkel">
+                        </div>
+                        <p class="activity-text">Snorkel</p>
+                    </a>
+                </div>
+
+                <div class="col-md-4">
+                    <a asp-action="Surf" asp-controller="Home" class="activity-card">
+                        <div class="activity-icon-container">
+                            <img src="~/images/atvsurf.png" class="activity-icon" alt="Surf">
+                        </div>
+                        <p class="activity-text">Surf</p>
+                    </a>
+                </div>
+
+                <div class="col-md-4">
+                    <a asp-action="AsaDelta" asp-controller="Home" class="activity-card">
+                        <div class="activity-icon-container">
+                            <img src="~/images/atvasadelta.png" class="activity-icon" alt="Asa Delta">
+                        </div>
+                        <p class="activity-text">Asa Delta</p>
+                    </a>
+                </div>
+
+                <div class="col-md-4">
+                    <a asp-action="Passeios" asp-controller="Home" class="activity-card">
+                        <div class="activity-icon-container">
+                            <img src="~/images/atvbarco.png" class="activity-icon" alt="Passeios">
+                        </div>
+                        <p class="activity-text">Passeios</p>
+                    </a>
+                </div>
+
+                <div class="col-md-4">
+                    <a asp-action="Rapel" asp-controller="Home" class="activity-card">
+                        <div class="activity-icon-container">
+                            <img src="~/images/atvrapel.png" class="activity-icon" alt="Rapel">
+                        </div>
+                        <p class="activity-text">Rapel</p>
+                    </a>
+                </div>
+
+                <div class="col-md-4">
+                    <a asp-action="Eventos" asp-controller="Home" class="activity-card">
+                        <div class="activity-icon-container">
+                            <img src="~/images/atveventos.png" class="activity-icon" alt="Eventos">
+                        </div>
+                        <p class="activity-text">Eventos</p>
+                    </a>
+                </div>
+            </div>
+        </section>
+    </main>
+</div>
+
+<style>
+    body {
+        background-color: #E9F9FF;
+    }
+
+    h1 {
+        color: #005374;
+        text-align: center;
+        font-size: 60px;
+        margin-top: 36px;
+        margin-bottom: 36px;
+    }
+
+    .atividades {
+        margin-top: 20px;
+    }
+
+        .atividades h2 {
+            color: #0A749E;
+            font-size: 30px;
+            padding-bottom: 24px;
+            text-align: left;
+        }
+
+    .activity-card {
+        text-align: center;
+        margin-bottom: 20px;
+        display: block;
+        text-decoration: none;
+        border-radius: 10px;
+        background-color: #BEE7F8;
+        padding: 20px;
+        transition: background-color 0.3s ease;
+    }
+
+        .activity-card:hover {
+            background-color: #7EC7E2;
+        }
+
+    .activity-icon-container {
+        border-radius: 10px;
+        padding: 20px;
+    }
+
+    .activity-icon {
+        width: 80px;
+        height: 80px;
+    }
+
+    .activity-text {
+        font-size: 18px;
+        color: #005374;
+        margin-top: 10px;
+    }
+</style>

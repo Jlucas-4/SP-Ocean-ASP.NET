@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\larib\\Downloads\\SpOcean\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|c:\\users\\larib\\downloads\\spocean\\spocean\\views\\home\\publicacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|solutionrelative:spocean\\views\\home\\publicacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|c:\\users\\larib\\downloads\\spocean\\spocean\\views\\home\\rapel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|solutionrelative:spocean\\views\\home\\rapel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|c:\\users\\larib\\downloads\\spocean\\spocean\\views\\home\\praiaprumirim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|solutionrelative:spocean\\views\\home\\praiaprumirim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|c:\\users\\larib\\downloads\\spocean\\spocean\\views\\home\\atividade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|solutionrelative:spocean\\views\\home\\atividade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|c:\\users\\larib\\downloads\\spocean\\spocean\\views\\home\\praiasonho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|solutionrelative:spocean\\views\\home\\praiasonho.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|c:\\users\\larib\\downloads\\spocean\\spocean\\views\\home\\praiailha.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|solutionrelative:spocean\\views\\home\\praiailha.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|c:\\users\\larib\\downloads\\spocean\\spocean\\views\\home\\praiagrande.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|solutionrelative:spocean\\views\\home\\praiagrande.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|c:\\users\\larib\\downloads\\spocean\\spocean\\views\\home\\praiadeserto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|solutionrelative:spocean\\views\\home\\praiadeserto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|c:\\users\\larib\\downloads\\spocean\\spocean\\views\\home\\praiacamburi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|solutionrelative:spocean\\views\\home\\praiacamburi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|c:\\users\\larib\\downloads\\spocean\\spocean\\views\\home\\asadelta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|solutionrelative:spocean\\views\\home\\asadelta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|c:\\users\\larib\\downloads\\spocean\\spocean\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|solutionrelative:spocean\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|c:\\users\\larib\\downloads\\spocean\\spocean\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|solutionrelative:spocean\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|c:\\users\\larib\\downloads\\spocean\\spocean\\views\\home\\eventos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|solutionrelative:spocean\\views\\home\\eventos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|c:\\users\\larib\\downloads\\spocean\\spocean\\views\\home\\passeios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|solutionrelative:spocean\\views\\home\\passeios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|c:\\users\\larib\\downloads\\spocean\\spocean\\views\\home\\surf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|solutionrelative:spocean\\views\\home\\surf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|c:\\users\\larib\\downloads\\spocean\\spocean\\views\\home\\snorkel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|solutionrelative:spocean\\views\\home\\snorkel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|c:\\users\\larib\\downloads\\spocean\\spocean\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FC82D68-0502-400F-A084-7265AD150769}|SpOcean\\SpOcean.csproj|solutionrelative:spocean\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PraiaPrumirim.cshtml",
+              "DocumentMoniker": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\PraiaPrumirim.cshtml",
+              "RelativeDocumentMoniker": "SpOcean\\Views\\Home\\PraiaPrumirim.cshtml",
+              "ToolTip": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\PraiaPrumirim.cshtml",
+              "RelativeToolTip": "SpOcean\\Views\\Home\\PraiaPrumirim.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T22:27:20.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PraiaDeserto.cshtml",
+              "DocumentMoniker": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\PraiaDeserto.cshtml",
+              "RelativeDocumentMoniker": "SpOcean\\Views\\Home\\PraiaDeserto.cshtml",
+              "ToolTip": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\PraiaDeserto.cshtml",
+              "RelativeToolTip": "SpOcean\\Views\\Home\\PraiaDeserto.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T22:09:03.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PraiaGrande.cshtml",
+              "DocumentMoniker": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\PraiaGrande.cshtml",
+              "RelativeDocumentMoniker": "SpOcean\\Views\\Home\\PraiaGrande.cshtml",
+              "ToolTip": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\PraiaGrande.cshtml",
+              "RelativeToolTip": "SpOcean\\Views\\Home\\PraiaGrande.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwB4AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T22:32:35.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PraiaIlha.cshtml",
+              "DocumentMoniker": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\PraiaIlha.cshtml",
+              "RelativeDocumentMoniker": "SpOcean\\Views\\Home\\PraiaIlha.cshtml",
+              "ToolTip": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\PraiaIlha.cshtml",
+              "RelativeToolTip": "SpOcean\\Views\\Home\\PraiaIlha.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwB8AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T22:08:36.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PraiaSonho.cshtml",
+              "DocumentMoniker": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\PraiaSonho.cshtml",
+              "RelativeDocumentMoniker": "SpOcean\\Views\\Home\\PraiaSonho.cshtml",
+              "ToolTip": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\PraiaSonho.cshtml",
+              "RelativeToolTip": "SpOcean\\Views\\Home\\PraiaSonho.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwCYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T22:31:46.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Publicacao.cshtml",
+              "DocumentMoniker": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\Publicacao.cshtml",
+              "RelativeDocumentMoniker": "SpOcean\\Views\\Home\\Publicacao.cshtml",
+              "ToolTip": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\Publicacao.cshtml",
+              "RelativeToolTip": "SpOcean\\Views\\Home\\Publicacao.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAF4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T22:10:13.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Atividade.cshtml",
+              "DocumentMoniker": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\Atividade.cshtml",
+              "RelativeDocumentMoniker": "SpOcean\\Views\\Home\\Atividade.cshtml",
+              "ToolTip": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\Atividade.cshtml",
+              "RelativeToolTip": "SpOcean\\Views\\Home\\Atividade.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T20:55:50.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rapel.cshtml",
+              "DocumentMoniker": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\Rapel.cshtml",
+              "RelativeDocumentMoniker": "SpOcean\\Views\\Home\\Rapel.cshtml",
+              "ToolTip": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\Rapel.cshtml",
+              "RelativeToolTip": "SpOcean\\Views\\Home\\Rapel.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T20:45:00.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PraiaCamburi.cshtml",
+              "DocumentMoniker": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\PraiaCamburi.cshtml",
+              "RelativeDocumentMoniker": "SpOcean\\Views\\Home\\PraiaCamburi.cshtml",
+              "ToolTip": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\PraiaCamburi.cshtml",
+              "RelativeToolTip": "SpOcean\\Views\\Home\\PraiaCamburi.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T22:36:24.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AsaDelta.cshtml",
+              "DocumentMoniker": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\AsaDelta.cshtml",
+              "RelativeDocumentMoniker": "SpOcean\\Views\\Home\\AsaDelta.cshtml",
+              "ToolTip": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\AsaDelta.cshtml",
+              "RelativeToolTip": "SpOcean\\Views\\Home\\AsaDelta.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T20:32:24.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SpOcean\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SpOcean\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAEkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:54:45.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SpOcean\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SpOcean\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T22:02:05.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Eventos.cshtml",
+              "DocumentMoniker": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\Eventos.cshtml",
+              "RelativeDocumentMoniker": "SpOcean\\Views\\Home\\Eventos.cshtml",
+              "ToolTip": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\Eventos.cshtml",
+              "RelativeToolTip": "SpOcean\\Views\\Home\\Eventos.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB8AAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T20:46:35.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Passeios.cshtml",
+              "DocumentMoniker": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\Passeios.cshtml",
+              "RelativeDocumentMoniker": "SpOcean\\Views\\Home\\Passeios.cshtml",
+              "ToolTip": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\Passeios.cshtml",
+              "RelativeToolTip": "SpOcean\\Views\\Home\\Passeios.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T20:46:26.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Surf.cshtml",
+              "DocumentMoniker": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\Surf.cshtml",
+              "RelativeDocumentMoniker": "SpOcean\\Views\\Home\\Surf.cshtml",
+              "ToolTip": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\Surf.cshtml",
+              "RelativeToolTip": "SpOcean\\Views\\Home\\Surf.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T20:31:55.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Snorkel.cshtml",
+              "DocumentMoniker": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\Snorkel.cshtml",
+              "RelativeDocumentMoniker": "SpOcean\\Views\\Home\\Snorkel.cshtml",
+              "ToolTip": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Home\\Snorkel.cshtml",
+              "RelativeToolTip": "SpOcean\\Views\\Home\\Snorkel.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T20:25:55.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SpOcean\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\larib\\Downloads\\SpOcean\\SpOcean\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SpOcean\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAIwDYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T17:53:21.508Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

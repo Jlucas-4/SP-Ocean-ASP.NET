@@ -1,0 +1,99 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SpOcean
+build_property.RootNamespace = SpOcean
+build_property.ProjectDir = C:\Users\JOÃO\Desktop\SpOcean\SpOcean\SpOcean\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\JOÃO\Desktop\SpOcean\SpOcean\SpOcean
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/JOÃO/Desktop/SpOcean/SpOcean/SpOcean/Views/Home/AsaDelta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBc2FEZWx0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOÃO/Desktop/SpOcean/SpOcean/SpOcean/Views/Home/Atividade.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBdGl2aWRhZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOÃO/Desktop/SpOcean/SpOcean/SpOcean/Views/Home/Eventos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFdmVudG9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOÃO/Desktop/SpOcean/SpOcean/SpOcean/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOÃO/Desktop/SpOcean/SpOcean/SpOcean/Views/Home/Passeios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYXNzZWlvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOÃO/Desktop/SpOcean/SpOcean/SpOcean/Views/Home/PraiaCamburi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmFpYUNhbWJ1cmkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOÃO/Desktop/SpOcean/SpOcean/SpOcean/Views/Home/PraiaDeserto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmFpYURlc2VydG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOÃO/Desktop/SpOcean/SpOcean/SpOcean/Views/Home/PraiaGrande.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmFpYUdyYW5kZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOÃO/Desktop/SpOcean/SpOcean/SpOcean/Views/Home/PraiaIlha.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmFpYUlsaGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOÃO/Desktop/SpOcean/SpOcean/SpOcean/Views/Home/PraiaPrumirim.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmFpYVBydW1pcmltLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOÃO/Desktop/SpOcean/SpOcean/SpOcean/Views/Home/PraiaSonho.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmFpYVNvbmhvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOÃO/Desktop/SpOcean/SpOcean/SpOcean/Views/Home/Publicacao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQdWJsaWNhY2FvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOÃO/Desktop/SpOcean/SpOcean/SpOcean/Views/Home/Rapel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSYXBlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOÃO/Desktop/SpOcean/SpOcean/SpOcean/Views/Home/Snorkel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTbm9ya2VsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOÃO/Desktop/SpOcean/SpOcean/SpOcean/Views/Home/Surf.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdXJmLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOÃO/Desktop/SpOcean/SpOcean/SpOcean/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOÃO/Desktop/SpOcean/SpOcean/SpOcean/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOÃO/Desktop/SpOcean/SpOcean/SpOcean/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOÃO/Desktop/SpOcean/SpOcean/SpOcean/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/JOÃO/Desktop/SpOcean/SpOcean/SpOcean/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-n5bcm9nmd9

@@ -1,0 +1,104 @@
+﻿@{
+    ViewData["Title"] = "Praia";
+}
+
+<div class="container">
+    <main>
+        <h1>SP OCEAN</h1>
+
+        <section class="activity-details">
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="~/images/praiagrande.png" class="activity-image" alt="Praia Grande">
+                </div>
+                <div class="col-md-6">
+                    <h2>Praia Grande</h2>
+                    <p class="activity-description">
+                        A Praia Grande é uma das praias mais conhecidas e movimentadas da região litorânea. Suas extensas faixas de 
+                        areia dourada oferecem espaço de sobra para os visitantes desfrutarem do sol e do mar. Com diversas opções de 
+                        quiosques, barracas e atividades esportivas, é um local ideal para famílias e grupos de amigos em busca de 
+                        entretenimento e diversão à beira-mar.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <section class="beaches">
+            <h3>Atividades nessa praia:</h3>
+            <div class="beach-buttons">
+                <a asp-action="Passeios" asp-controller="Home" class="beach-button">Passeio</a>
+                <a asp-action="Snorkel" asp-controller="Home" class="beach-button">Snorkel</a>
+                <a asp-action="Eventos" asp-controller="Home" class="beach-button">Eventos</a>
+            </div>
+        </section>
+    </main>
+</div>
+
+<style>
+    body {
+        background-color: #E9F9FF;
+    }
+
+    h1 {
+        color: #005374;
+        text-align: center;
+        font-size: 60px;
+        margin-top: 36px;
+        margin-bottom: 40px;
+    }
+
+    .activity-details {
+        margin-top: 20px;
+    }
+
+    .activity-image {
+        width: 80%;
+        border-radius: 10px;
+    }
+
+    h2 {
+        color: #005374;
+        font-size: 36px;
+        display: flex;
+        align-items: center;
+    }
+
+    .activity-description {
+        font-size: 20px;
+        color: #005374;
+        margin-top: 40px;
+        text-align: left;
+    }
+
+    .beaches {
+        margin-top: 30px;
+        text-align: center;
+    }
+
+        .beaches h3 {
+            color: #0A749E;
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+    .beach-buttons {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .beach-button {
+        display: inline-block;
+        background-color: #BEE7F8;
+        color: #005374;
+        padding: 10px 20px;
+        border-radius: 25px;
+        text-decoration: none;
+        font-size: 18px;
+        transition: background-color 0.3s ease;
+    }
+
+        .beach-button:hover {
+            background-color: #9AD0E4;
+        }
+</style>
